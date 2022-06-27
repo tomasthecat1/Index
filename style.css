@@ -1,4 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Magra&display=swap');
 
+.image {
+    position: absolute;
+    width: 1440px;
+    height: 765px;
+    left: 0px;
+    top: 0px;
+
+    background: url(/Travel/garrett-parker-DlkF4-dbCOU-unsplash\ 1-2.png)
+}
+.garret_1 {
+    position: absolute;
+    width:1400px;
+    height: 90px;
+    left:0px;
+    top:0px;
+    background: rgba(242, 120, 92, 0.7);
+    box-shadow: 0px 4px 4px rgba(13, 96, 111, 0.5);
+}
+.travel_portal {
+    position: absolute;
+    width: 180px;
+    height: 31px;
+    left: 156px;
+    top: 25px;
+    font-family: magra;
+    font-family: 'Magra';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 39px;
+
+    color: #FFFFFF;
+}
 h1 {
     color:red;
     font-size: 20px;
